@@ -24,13 +24,13 @@ function rockPaperScissors(playerTurn) {
 
     if ((playerTurn == rock && computerMove == rock) || (playerTurn == paper && computerMove == paper) ||
         (playerTurn == scissors && computerMove == scissors)) {
-        console.log('This game was a draw!');
+        console.log('\x1b[33mThis game was a draw!\x1b[0m');
     } else if ((playerTurn == rock && computerMove == scissors) || (playerTurn == paper && computerMove == rock) ||
         (playerTurn == scissors && computerMove == paper)) {
-        console.log('You win!');
+        console.log('\x1b[32mYou win!\x1b[0m'); // \x1b[32m''\x1b[0m - changes the color of the string.
     } else if ((playerTurn == rock && computerMove == paper) || (playerTurn == paper && computerMove == scissors) ||
         (playerTurn == scissors && computerMove == rock)) {
-        console.log('You lose!');
+        console.log('\x1b[31mYou lose!\x1b[0m');
     }
 
 }
