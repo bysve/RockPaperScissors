@@ -3,6 +3,7 @@ function rockPaperScissors(playerTurn) {
     const paper = 'Paper';
     const scissors = 'Scissors';
     let computerRandomNumber = Math.round(Math.random() * 3) + 1;
+    let computerMove;
 
     if (playerTurn == 'r' || playerTurn == 'Rock') {
         playerTurn = rock;
