@@ -10,9 +10,4 @@ If both players choose the same shape, the game is tied.
 
 [Source Code](rockPaperScissors.js)
 
-![image](https://user-images.githubusercontent.com/103934900/192772581-cb5f3d3d-1242-4802-82c0-0d5163d4f24b.png)
-
-![image](https://user-images.githubusercontent.com/103934900/192772738-9654c41e-3fe9-445d-b34c-34b08302db8e.png)
-
-![image](https://user-images.githubusercontent.com/103934900/192772968-57b1a83f-6557-4b09-aa4e-d91c37551b2b.png)
-
+![image](https://user-images.githubusercontent.com/103934900/192774462-79138733-7333-45aa-b452-f67d7613bf4d.png)
