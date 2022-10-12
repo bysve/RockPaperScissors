@@ -10,4 +10,11 @@ If both players choose the same shape, the game is tied.
 
 [Source Code](rockPaperScissors.js)
 
-![image](https://user-images.githubusercontent.com/103934900/192774462-79138733-7333-45aa-b452-f67d7613bf4d.png)
+[![image](https://user-images.githubusercontent.com/103934900/192774462-79138733-7333-45aa-b452-f67d7613bf4d.png)]
+
+## Live Demo
+
+You can play the game directly in your Web browser here: 
+
+[![image](https://user-images.githubusercontent.com/103934900/195340302-ccf5f3aa-5fd4-4adc-9319-6a48529c4ffb.png)]https://replit.com/@bysve/RockPaperScissors#rock-paper-scissors.jsS
+
